@@ -1,4 +1,4 @@
-/ client/src / threeScene.js
+// client/src/threeScene.js
 import * as THREE from 'three'
 export function startThreeSensorTest() {
     // --- WebSocket + sensor state ---
